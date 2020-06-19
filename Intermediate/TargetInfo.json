@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "BallMaze",
+			"Path": "/Users/muhammadasad/Documents/Unreal Projects/BallMaze/Source/BallMaze.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "BallMazeEditor",
+			"Path": "/Users/muhammadasad/Documents/Unreal Projects/BallMaze/Source/BallMazeEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}
